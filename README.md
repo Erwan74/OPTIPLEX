@@ -18,6 +18,7 @@ Student project
 		<nav class="subMenu">
 		 	<ul>
 		 		<a href="#" class="subNavBtn"><li><img src="logo.png"></li></a>
+				https://github.com/Erwan74/OPTIPLEX/blob/master/logo.png?raw=true
 		 		<a href="politique.html" class="subNavBtn"><li>Politique</li></a>
 				<a href="sport.html" class="subNavBtn"><li>Sport</li></a>
 				<a href="jeuxvideos.html" class="subNavBtn"><li>Jeux vidéos</li></a>
